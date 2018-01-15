@@ -1,0 +1,10 @@
+/Users/ktm/src/edge/auth-service/src/main/java/auth/AuthorizationServerConfiguration.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/clients/ClientConfiguration.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/clients/Client.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/AuthServiceApplication.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/DataCommandLineRunner.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/accounts/AccountRepository.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/clients/ClientRepository.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/accounts/AccountConfiguration.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/accounts/Account.java
+/Users/ktm/src/edge/auth-service/src/main/java/auth/PrincipalRestController.java
