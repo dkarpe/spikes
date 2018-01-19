@@ -1,0 +1,6 @@
+demo/controller/AuthenticateController.class
+demo/domain/Token.class
+demo/service/TokenMapStore.class
+demo/config/HazelcastConfiguration.class
+demo/AuthApplication.class
+demo/repository/TokenRepository.class
